@@ -1,0 +1,5 @@
+,dim,algo,param,jsd,iteration
+0,4,hope,katz,0.1560064,0
+1,8,hope,katz,0.1559932,0
+2,16,hope,katz,0.1560043,0
+3,32,hope,katz,0.1560283,0
